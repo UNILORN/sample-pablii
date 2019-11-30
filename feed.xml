@@ -3,22 +3,63 @@
     <title>UNILORN.com</title>
     <link href="https://UNILORN.github.io/sample-pablii/feed.xml" rel="self" />
     <link href="https://UNILORN.github.io/sample-pablii" />
-    <updated>2019-11-30T21:42:10+09:00</updated>
+    <updated>2019-11-30T22:20:18+09:00</updated>
     <author>
         <name>unilorn</name>
     </author>
     <id>https://UNILORN.github.io/sample-pablii</id>
 
     <entry>
-        <title>Initialize Test Page</title>
+        <title>最初に読むところ</title>
+        <author>
+            <name>unilorn</name>
+        </author>
+        <link href="https://UNILORN.github.io/sample-pablii/zui-chu-ni.html"/>
+        <id>https://UNILORN.github.io/sample-pablii/zui-chu-ni.html</id>
+
+        <updated>2019-11-30T22:09:12+09:00</updated>
+            <summary>
+                <![CDATA[
+                    このページの最初に読むところです。 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>このページの最初に読むところです。</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Profile</title>
         <author>
             <name>unilorn</name>
         </author>
         <link href="https://UNILORN.github.io/sample-pablii/initialize-test-page.html"/>
         <id>https://UNILORN.github.io/sample-pablii/initialize-test-page.html</id>
 
-        <updated>2019-11-30T21:28:02+09:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2019-11-30T22:18:29+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://UNILORN.github.io/sample-pablii/media/posts/1/DSC00912.JPG" alt="" />
+                     プロフィールページつくってみました
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://UNILORN.github.io/sample-pablii/media/posts/1/DSC00912.JPG" alt="" />
+                <p><img class="post__image post__image--center" src="https://UNILORN.github.io/sample-pablii/media/posts/1/CLFz6rZUkAAM_iP.jpg" width="150" height="137"></p>
+<h2 id="mcetoc_1dqu7bhmp0" class="align-center">UNILORN</h2>
+<p class="align-center">プロフィールページつくってみました</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00898.JPG" ><img src="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00898-thumbnail.JPG" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00906-1.JPG" ><img src="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00906-1-thumbnail.JPG" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00908.JPG" ><img src="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00908-thumbnail.JPG" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00909.JPG" ><img src="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00909-thumbnail.JPG" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00912.JPG" ><img src="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00912-thumbnail.JPG" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00915.JPG" ><img src="https://UNILORN.github.io/sample-pablii/media/posts/1/gallery/DSC00915-thumbnail.JPG" alt="" width="720" height="480"></a></figure>
+</div>
+            ]]>
+        </content>
     </entry>
 </feed>
