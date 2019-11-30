@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "UNILORN.com",
+    "description": "",
+    "home_page_url": "https://UNILORN.github.io/sample-pablii",
+    "feed_url": "https://UNILORN.github.io/sample-pablii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "unilorn"
+    },
+    "items": [
+        {
+            "id": "https://UNILORN.github.io/sample-pablii/initialize-test-page.html",
+            "url": "https://UNILORN.github.io/sample-pablii/initialize-test-page.html",
+            "title": "Initialize Test Page",
+            "author": {
+                "name": "unilorn"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-30T21:28:02+09:00",
+            "date_modified": "2019-11-30T21:28:02+09:00"
+        }
+    ]
+}

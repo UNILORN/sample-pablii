@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>UNILORN.com</title>
+    <link href="https://UNILORN.github.io/sample-pablii/feed.xml" rel="self" />
+    <link href="https://UNILORN.github.io/sample-pablii" />
+    <updated>2019-11-30T21:42:10+09:00</updated>
+    <author>
+        <name>unilorn</name>
+    </author>
+    <id>https://UNILORN.github.io/sample-pablii</id>
+
+    <entry>
+        <title>Initialize Test Page</title>
+        <author>
+            <name>unilorn</name>
+        </author>
+        <link href="https://UNILORN.github.io/sample-pablii/initialize-test-page.html"/>
+        <id>https://UNILORN.github.io/sample-pablii/initialize-test-page.html</id>
+
+        <updated>2019-11-30T21:28:02+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
